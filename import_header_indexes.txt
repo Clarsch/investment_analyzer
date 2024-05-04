@@ -1,0 +1,29 @@
+0: Id
+1: Bogføringsdag
+2: Handelsdag
+3: Valørdag
+4: Depot
+5: Transaktionstype
+6: Værdipapirer
+7: Værdipapirtype
+8: ISIN
+9: Antal
+10: Kurs
+11: Rente
+12: Samlede afgifter
+13: Valuta
+14: Beløb
+15: Valuta
+16: Indkøbsværdi
+17: Valuta
+18: Resultat
+19: Valuta
+20: Totalt antal
+21: Saldo
+22: Vekslingskurs
+23: Transaktionstekst
+24: Makuleringsdato
+25: Notanummer
+26: Verifikationsnummer
+27: Kurtage
+28: Valuta
